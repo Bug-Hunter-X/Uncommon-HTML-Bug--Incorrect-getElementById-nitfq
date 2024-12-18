@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug that can occur in HTML when interacting with JavaScript. The bug arises from a typo in the `getElementById` method, preventing the script from correctly updating the HTML content.  The solution highlights the importance of careful attention to detail when working with element IDs.
